@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeoBrOd
+- 👋 Hi, I’m @Leonid
 - 👀 I’m interested in getting new knowledge
 - 🌱 I’m currently learning coding
 - 📫 You can reach me on slack - Leo
