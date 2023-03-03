@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Leonid
-- 👀 I’m interested in getting new knowledge
-- 🌱 I’m currently learning coding
+- 👋 Hi, my name is @Leonid
+- 👀 I’m interested in getting new job as a Full Stack Developer
 - 📫 You can reach me on slack - Leo
 
 <!---
