@@ -1,5 +1,5 @@
 - 👋 Hi, my name is @Leonid
-- 👀 I’m interested in getting new job as a Full Stack Developer
+- 👀 I’m interested in getting a new job as a Data Analyst
 - 📫 You can reach me on slack - Leo
 
 <!---
